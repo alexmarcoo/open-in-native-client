@@ -2,14 +2,14 @@
 
 ### How to work with native-client
 
-Native client patch is used for connecting your browser (Firefox, Chrome and Opera) with native applications on different operating systems (Windows, Linux and Mac). If you have an addon in your browser that needs to communicate with external application on your computer, this native client patch can be used to open this conection. 
+Native client patch is used for connecting your browser (Firefox, Chrome and Opera) with native applications on different operating systems (Windows, Linux and Mac). If you have an addon in your browser that needs to communicate with an external application on your computer, this native client patch can be used to make this conection. 
 
 ### In order to install "native-client" on your system please follow the below steps.
 
-1. Download and extract related ZIP file to your machine. If you have windows machine, please download win.zip, for Mac computer, use mac.zip and for Linux machine use linux.zip.
+1. Download and extract the related ZIP file to your machine. If you have windows OS, please download "win.zip", for Mac, use "mac.zip" and for Linux please use "linux.zip".
 2. Open the downoaded folder and click on "install.bat". You can open "install.bat" with any text editor to see what is written inside in case you are interested.
 3. Wait for the screen to display the successful message.
-4. Now the addon in your browser is connected to native applications (i.e. a media player) on your system.
+4. Now the addon in your browser is connected to native application (i.e. a media player) on your machine.
 
 ### In order to uninstall "native-client" from your system please follow the below steps.
 
