@@ -7,6 +7,7 @@ Native client patches provided in this GitHub repo work ONLY with the addons lis
 /---------------------------------------------------------------------------------------------------------------  
 Currently, ONLY the following open-in products work with the native client patches in this repo:
 
+PDF Tools: https://mybrowseraddon.com/pdf-tools.html
 Open in IE™: http://mybrowseraddon.com/open-in-ie.html  
 Open in VLC™: https://mybrowseraddon.com/open-in-vlc.html  
 Open in PDF Viewer: https://mybrowseraddon.com/open-in-pdf.html  
