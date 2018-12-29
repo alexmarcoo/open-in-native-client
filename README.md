@@ -12,8 +12,7 @@ Currently, ONLY the following open-in products work with the native client patch
 3. Open in VLC™: https://mybrowseraddon.com/open-in-vlc.html  
 4. Open in PDF Viewer: https://mybrowseraddon.com/open-in-pdf.html  
 5. Open in Chrome™: http://mybrowseraddon.com/open-in-chrome.html  
-6. Open with Internet Download Manager: http://mybrowseraddon.com/open-with-idm.html  
-/---------------------------------------------------------------------------------------------------------------  
+6. Open with Internet Download Manager: http://mybrowseraddon.com/open-with-idm.html  /---------------------------------------------------------------------------------------------------------------  
 
 ### How to work with native-client:
 
